@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "decoradores"
+  "defaultProject": "decoradores",
+  "cli": {
+    "analytics": false
+  }
 }
